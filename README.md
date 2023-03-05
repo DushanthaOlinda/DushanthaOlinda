@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/followers/DinithKumudika?style=social flat-square"> 
+<img src="https://img.shields.io/github/followers/DushanthaOlinda?style=social flat-square"> 
 <img src="header.svg" width="800" height="350">
 
 # 💫 About Me:
