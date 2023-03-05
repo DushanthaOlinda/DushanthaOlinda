@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/followers/DushanthaOlinda?style=social flat-square"> 
-<img src="header.svg" width="800" height="350">
+<img src="header.svg" width="400" height="175">
 
 # 💫 About Me:
 🔭 I’m currently studying in University of Colombo School of Computing<br>🌱 I’m currently learning Machine learning, Android app development and stuff<br>⚡ Fun fact Computer “bug” was inspired by a real insect
